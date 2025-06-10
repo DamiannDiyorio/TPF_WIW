@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T71za48sHK4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alesa\\Desktop\\Facultad\\Complejidad temporal y estructura de datos\\TPF_WIW\\WiW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alesa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\alesa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\alesa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\alesa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
