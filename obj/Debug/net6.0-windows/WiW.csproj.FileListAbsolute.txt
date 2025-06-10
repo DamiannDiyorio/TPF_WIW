@@ -41,3 +41,4 @@ C:\Users\alesa\Desktop\Facultad\Complejidad temporal y estructura de datos\TPF_W
 C:\Users\alesa\Desktop\Facultad\Complejidad temporal y estructura de datos\TPF_WIW\bin\Debug\net6.0-windows\WiW.pdb
 C:\Users\alesa\Desktop\Facultad\Complejidad temporal y estructura de datos\TPF_WIW\obj\Debug\net6.0-windows\WiW.genruntimeconfig.cache
 C:\Users\alesa\Desktop\Facultad\Complejidad temporal y estructura de datos\TPF_WIW\obj\Debug\net6.0-windows\ref\WiW.dll
+C:\Users\alesa\Desktop\Facultad\Complejidad temporal y estructura de datos\TPF_WIW\obj\Debug\net6.0-windows\WiW.sourcelink.json

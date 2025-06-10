@@ -11,8 +11,8 @@ namespace tpfinal
         {
             if (nodo == null) return 0;
 
-            int alturaIzq = nodo.getHijoIzquierdo() != null ? nodo.getHijoIzquierdo().Altura : 0;
-            int alturaDer = nodo.getHijoDerecho() != null ? nodo.getHijoDerecho().Altura : 0;
+            int alturaIzq = nodo.getHijoIzquierdo() != null ? nodo.getHijoIzquierdo().Altura : -1;
+            int alturaDer = nodo.getHijoDerecho() != null ? nodo.getHijoDerecho().Altura : -1;
 
             return alturaIzq - alturaDer;
         }
@@ -68,9 +68,9 @@ namespace tpfinal
 
         public static ArbolBinario<DecisionData> RebalancearRecursivo(ArbolBinario<DecisionData> nodo)
         {
-            if (nodo == null)
+            if (nodo.esHoja())
             {
-                return null;
+                return Rebalancear(nodo);
             }
 
             nodo.agregarHijoIzquierdo(RebalancearRecursivo(nodo.getHijoIzquierdo()));
